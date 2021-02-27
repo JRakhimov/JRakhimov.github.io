@@ -1,0 +1,19 @@
+body {
+    background: #28527A;
+    color: #F4D160;
+    font-family: 'Arial', serif;
+}
+
+a {
+    color: #8AC4D0;
+}
+
+img {
+    width: 500px;
+}
+
+.d-inline {
+    display: inline;
+}
+
+
