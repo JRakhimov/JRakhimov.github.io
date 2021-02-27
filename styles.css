@@ -6,10 +6,20 @@ body {
 
 a {
     color: #8AC4D0;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 img {
     width: 500px;
+}
+
+h2::before {
+    content: "";
+    margin-left: 24px;
 }
 
 .d-inline {
